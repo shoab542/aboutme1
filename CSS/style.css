@@ -1,0 +1,31 @@
+div {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    box-shadow: 0 0 7px #0606060f;
+}
+h1 {
+    text-shadow: 3px 1px 2px red;
+    font-size: 60px;
+    margin-top: 50px;
+    color: red;
+}
+.colorGreen{
+    color: green;
+}
+.colorBlue{
+    color: blue;
+}
+
+p {
+    font-size: 30px;
+    line-height: 1.4;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+}
+img {
+    max-width: 100%;
+}
